@@ -1,0 +1,23 @@
+{
+  "name": "ecommerce-frontend",
+  "version": "1.0.0",
+  "description": "E-commerce frontend - Static HTML/CSS/JS",
+  "scripts": {
+    "start": "npx live-server --port=8080 --open=/index.html",
+    "dev": "npx live-server --port=8080 --open=/index.html",
+    "serve": "npx serve -s . -l 8080"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "serve": "^14.2.1"
+  },
+  "keywords": [
+    "ecommerce",
+    "frontend",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "E-commerce Developer",
+  "license": "MIT"
+}
